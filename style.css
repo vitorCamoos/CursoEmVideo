@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(51, 179, 202);  
+    font: normal 15pt Arial;  
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 45pc;
+    }
+
+header{
+    color: #fff;
+    text-align: center;
+}
+
+section{
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #242424;
+}
+
+    div{
+        text-align: center;
+        padding: 8px;
+    }
+
+footer{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}
